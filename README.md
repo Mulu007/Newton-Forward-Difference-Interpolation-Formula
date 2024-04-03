@@ -3,6 +3,9 @@
 
 This JavaScript code provides a Command-Line Interface (CLI) for performing polynomial interpolation using divided differences. It allows users to input a set of data points, and then computes the interpolated value of a polynomial at a specified point.
 
+## Video tutorial
+[Screencast from 03-04-24 21:19:58.webm](https://github.com/Mulu007/Newton-Forward-Difference-Interpolation-Formula/assets/110171336/fe8c9369-57d5-400d-89c6-2e78f11a2aab)
+
 ## Functions:
 
 ### Forward Difference Function (forwardDifference):
